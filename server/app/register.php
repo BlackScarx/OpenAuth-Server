@@ -76,7 +76,7 @@ if (isset($_POST["username"]) || isset($_POST["password"]) || isset($_POST["vpas
         <title>OpenAuth Server - Inscription</title>
 
         <!-- The OpenAuth Icon -->
-        <link rel="icon" href="http://theshark34.github.io/OpenAuth-Server/icon.png" />
+        <link rel="icon" href="http://Litarvan.github.io/OpenAuth-Server/icon.png" />
 
         <!-- Bootstrap -->
         <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
@@ -88,12 +88,12 @@ if (isset($_POST["username"]) || isset($_POST["password"]) || isset($_POST["vpas
           <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
 
-        <link href="http://theshark34.github.io/OpenAuth-Server/style.css" rel="stylesheet">
+        <link href="http://Litarvan.github.io/OpenAuth-Server/style.css" rel="stylesheet">
     </head>
 
     <body>
         <div class="fulldiv classic">
-            <img src="http://theshark34.github.io/OpenAuth-Server/logo.png" />
+            <img src="http://Litarvan.github.io/OpenAuth-Server/logo.png" />
 
             <h1><b><u>Inscription</u></b></h1>
             <br />
